@@ -1,5 +1,6 @@
 ## Blocus
-**Jeu en langage**
+**Jeu en langage C**
+
 **Projet tutoré 2020**
 
 Auteurs : Max Ducoudré
