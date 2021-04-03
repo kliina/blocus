@@ -3,8 +3,6 @@
 
 **Projet tutoré 2020**
 
-Auteurs : Max Ducoudré
-
-          Lina Ahres
+Auteurs : Max Ducoudré & Lina Ahres
 
 
