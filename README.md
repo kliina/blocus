@@ -1,1 +1,3 @@
 # blocus
+ekzlez
+#fkef
